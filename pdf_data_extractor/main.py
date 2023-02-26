@@ -13,6 +13,7 @@
 
 import tabula
 import pandas as pd
+import numpy as np
 import os
 
 
@@ -220,4 +221,74 @@ if __name__ == '__main__':
                 "Vagas": 3,
             }
         ],
-    ]  # [0] => 2023, [1] => 2022, [2] => 2021, [3] => 2020
+
+    ]
+
+    # coloca isso em um csv e salvar em data/editais_vagas.csv
+    df_editais = pd.DataFrame()
+    # cada curso é uma coluna
+    for curso in cursos:
+        df_editais[curso] = np.array([])
+    df_editais["Ano"] = np.array([])
+
+    for i, vagas in enumerate(vagas_por_edital):
+        cursos_list = {
+            "CGR": {
+                'found': False,
+                'vagas': []
+            },
+            "CIV": {
+                'found': False,
+                'vagas': []
+            },
+            "CMP": {
+                'found': False,
+                'vagas': []
+            },
+            "ELN": {
+                'found': False,
+                'vagas': []
+            },
+            "ELT": {
+                'found': False,
+                'vagas': []
+            },
+            "MEC": {
+                'found': False,
+                'vagas': []
+            },
+            "QUI": {
+                'found': False,
+                'vagas': []
+            },
+            "TEL": {
+                'found': False,
+                'vagas': []
+            },
+            "MTL": {
+                'found': False,
+                'vagas': []
+            },
+        }
+        anos_list = [2023, 2022, 2021, 2020]
+        new_df = pd.DataFrame()
+        # print(vagas)
+        for vaga in vagas:
+            # print(vaga)
+            cursos_list[vaga["Curso"]]['found'] = True
+            cursos_list[vaga["Curso"]]['vagas'].append(vaga["Vagas"])
+
+        for curso in cursos_list:
+            if (not cursos_list[curso]['found']):
+                cursos_list[curso]['vagas'].append(0)
+
+        for curso in cursos_list:
+            new_df[curso] = cursos_list[curso]['vagas']
+        new_df["Ano"] = anos_list[i]
+
+        df_editais = df_editais.append(new_df)
+
+        # converte resultados para int
+        df_editais = df_editais.astype(int)
+
+    df_editais.to_csv('data/extractions/editais_vagas.csv', index=False)
