@@ -85,6 +85,7 @@ if __name__ == '__main__':
 
     vagas_por_edital = [
         [
+            # 2023
             {
                 "Curso": "CGR",
                 "Vagas": 1,
@@ -119,6 +120,7 @@ if __name__ == '__main__':
             },
         ],
         [
+            # 2022
             {
                 "Curso": "CIV",
                 "Vagas": 3,
@@ -153,6 +155,7 @@ if __name__ == '__main__':
             }
         ],
         [
+            # 2021
             {
                 "Curso": "CIV",
                 "Vagas": 4,
@@ -180,6 +183,41 @@ if __name__ == '__main__':
             {
                 "Curso": "TEL",
                 "Vagas": 2,
+            }
+        ],
+        [
+            # 2020
+            {
+                "Curso": "CIV",
+                "Vagas": 3,
+            },
+            {
+                "Curso": "CMP",
+                "Vagas": 3,
+            },
+            {
+                "Curso": "ELN",
+                "Vagas": 3,
+            },
+            {
+                "Curso": "ELT",
+                "Vagas": 3,
+            },
+            {
+                "Curso": "MTL",
+                "Vagas": 1,
+            },
+            {
+                "Curso": "MEC",
+                "Vagas": 3,
+            },
+            {
+                "Curso": "QUI",
+                "Vagas": 1,
+            },
+            {
+                "Curso": "TEL",
+                "Vagas": 3,
             }
         ],
     ]  # [0] => 2023, [1] => 2022, [2] => 2021, [3] => 2020
