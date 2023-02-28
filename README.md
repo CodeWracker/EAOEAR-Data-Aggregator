@@ -10,12 +10,7 @@ As análises apenas contam com dados após 2020, pois antes disso a tabela de re
 
 ## Candidatos por curso por ano
 
-| CGR | CIV | CMP | ELN | ELT | MEC | QUI | TEL | MTL | Ano  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
-| 1   | 8   | 6   | 4   | 5   | 4   | 1   | 1   | 0   | 2023 |
-| 0   | 3   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 2022 |
-| 0   | 4   | 4   | 2   | 3   | 4   | 1   | 2   | 0   | 2021 |
-| 0   | 3   | 3   | 3   | 3   | 3   | 1   | 3   | 1   | 2020 |
+[Dados dos editais anteriores](https://github.com/CodeWracker/EAOEAR-Data-Aggregator/blob/main/data/extractions/editais_vagas.csv)
 
 ---
 
