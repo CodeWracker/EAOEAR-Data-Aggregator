@@ -32,7 +32,7 @@ As análises apenas contam com dados após 2020, pois antes disso a tabela de re
 
 ### Regressão para estima a nota do próximo ano de CIV
 
-<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_stats_CMP.png" alt="CodeWracker's GitHub stats"/>
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_stats_CIV.png" alt="CodeWracker's GitHub stats"/>
 
 ---
 
@@ -42,7 +42,7 @@ As análises apenas contam com dados após 2020, pois antes disso a tabela de re
 
 ### Regressão para estima a nota do próximo ano de CGR
 
-<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_stats_CMP.png" alt="CodeWracker's GitHub stats"/>
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_stats_CGR.png" alt="CodeWracker's GitHub stats"/>
 
 ---
 
@@ -52,7 +52,7 @@ As análises apenas contam com dados após 2020, pois antes disso a tabela de re
 
 ### Regressão para estima a nota do próximo ano de TEL
 
-<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_stats_CMP.png" alt="CodeWracker's GitHub stats"/>
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_stats_TEL.png" alt="CodeWracker's GitHub stats"/>
 
 ---
 
@@ -62,7 +62,7 @@ As análises apenas contam com dados após 2020, pois antes disso a tabela de re
 
 ### Regressão para estima a nota do próximo ano de QUI
 
-<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_stats_CMP.png" alt="CodeWracker's GitHub stats"/>
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_stats_QUI.png" alt="CodeWracker's GitHub stats"/>
 
 ---
 
@@ -72,7 +72,7 @@ As análises apenas contam com dados após 2020, pois antes disso a tabela de re
 
 ### Regressão para estima a nota do próximo ano de ELT
 
-<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_stats_CMP.png" alt="CodeWracker's GitHub stats"/>
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_stats_ELT.png" alt="CodeWracker's GitHub stats"/>
 
 ---
 
@@ -82,4 +82,4 @@ As análises apenas contam com dados após 2020, pois antes disso a tabela de re
 
 ### Regressão para estima a nota do próximo ano de ELN
 
-<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_stats_CMP.png" alt="CodeWracker's GitHub stats"/>
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_stats_ELN.png" alt="CodeWracker's GitHub stats"/>
