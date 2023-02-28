@@ -96,7 +96,7 @@ for esp in chart_data_df['ESP'].unique():
     #  faz o passo do eixo x ser 1
     plt.xticks(np.arange(esp_df['Ano'].min(), esp_df['Ano'].max()+1, 1.0))
 
-    plt.savefig(f"data/charts/{esp}.png")
+    plt.savefig(f"data/charts/stats_{esp}.png")
 
     #  salva o df em extractions como ESP_stats.csv
     esp_df.to_csv(f"data/extractions/stats_{esp}.csv", index=False)

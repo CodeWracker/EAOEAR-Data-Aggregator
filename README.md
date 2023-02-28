@@ -16,40 +16,70 @@ As análises apenas contam com dados após 2020, pois antes disso a tabela de re
 
 ## Estataisticas das provas escritas por curso por ano
 
-<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/CMP.png" alt="CodeWracker's GitHub stats"/>
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/stats_CMP.png" alt="CodeWracker's GitHub stats"/>
+
 [Tabela com as notas finais da prova teórica de CMP](https://github.com/CodeWracker/EAOEAR-Data-Aggregator/blob/main/data/extractions/stats_CMP.csv)
 
+### Regressão para estima a nota do próximo ano de CMP
+
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_stats_CMP.png" alt="CodeWracker's GitHub stats"/>
+
 ---
 
-<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/CIV.png" alt="CodeWracker's GitHub stats"/>
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/stats_CIV.png" alt="CodeWracker's GitHub stats"/>
+
 [Tabela com as notas finais da prova teórica de CIV](https://github.com/CodeWracker/EAOEAR-Data-Aggregator/blob/main/data/extractions/stats_CIV.csv)
 
+### Regressão para estima a nota do próximo ano de CIV
+
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_stats_CMP.png" alt="CodeWracker's GitHub stats"/>
+
 ---
 
-<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/CGR.png" alt="CodeWracker's GitHub stats"/>
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/stats_CGR.png" alt="CodeWracker's GitHub stats"/>
 
 [Tabela com as notas finais da prova teórica de CGR](https://github.com/CodeWracker/EAOEAR-Data-Aggregator/blob/main/data/extractions/stats_CGR.csv)
 
+### Regressão para estima a nota do próximo ano de CGR
+
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_stats_CMP.png" alt="CodeWracker's GitHub stats"/>
+
 ---
 
-<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/TEL.png" alt="CodeWracker's GitHub stats"/>
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/stats_TEL.png" alt="CodeWracker's GitHub stats"/>
 
 [Tabela com as notas finais da prova teórica de TEL](https://github.com/CodeWracker/EAOEAR-Data-Aggregator/blob/main/data/extractions/stats_TEL.csv)
 
+### Regressão para estima a nota do próximo ano de TEL
+
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_stats_CMP.png" alt="CodeWracker's GitHub stats"/>
+
 ---
 
-<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/QUI.png" alt="CodeWracker's GitHub stats"/>
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/stats_QUI.png" alt="CodeWracker's GitHub stats"/>
 
 [Tabela com as notas finais da prova teórica de QUI](https://github.com/CodeWracker/EAOEAR-Data-Aggregator/blob/main/data/extractions/stats_QUI.csv)
 
+### Regressão para estima a nota do próximo ano de QUI
+
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_stats_CMP.png" alt="CodeWracker's GitHub stats"/>
+
 ---
 
-<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/ELT.png" alt="CodeWracker's GitHub stats"/>
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/stats_ELT.png" alt="CodeWracker's GitHub stats"/>
 
 [Tabela com as notas finais da prova teórica de ELT](https://github.com/CodeWracker/EAOEAR-Data-Aggregator/blob/main/data/extractions/stats_ELT.csv)
 
+### Regressão para estima a nota do próximo ano de ELT
+
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_stats_CMP.png" alt="CodeWracker's GitHub stats"/>
+
 ---
 
-<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/ELN.png" alt="CodeWracker's GitHub stats"/>
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/stats_ELN.png" alt="CodeWracker's GitHub stats"/>
 
 [Tabela com as notas finais da prova teórica de ELN](https://github.com/CodeWracker/EAOEAR-Data-Aggregator/blob/main/data/extractions/stats_ELN.csv)
+
+### Regressão para estima a nota do próximo ano de ELN
+
+<img height="250" align="left" src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_stats_CMP.png" alt="CodeWracker's GitHub stats"/>
