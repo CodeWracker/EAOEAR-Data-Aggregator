@@ -24,6 +24,8 @@ As análises apenas contam com dados após 2020, pois antes disso a tabela de re
 
 <img height="250"  src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_CMP.png" alt="CodeWracker's GitHub stats"/>
 
+[Tabela com as notas finais (COM A REGRESSÂO LINEAR) da prova teórica de CMP](https://github.com/CodeWracker/EAOEAR-Data-Aggregator/blob/main/data/extractions/stats_CMP.csv)
+
 ---
 
 <img height="250"  src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/stats_CIV.png" alt="CodeWracker's GitHub stats"/>
@@ -33,6 +35,8 @@ As análises apenas contam com dados após 2020, pois antes disso a tabela de re
 ### Regressão para estima a nota do próximo ano de CIV
 
 <img height="250"  src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_CIV.png" alt="CodeWracker's GitHub stats"/>
+
+[Tabela com as notas finais (COM A REGRESSÂO LINEAR) da prova teórica de CIV](https://github.com/CodeWracker/EAOEAR-Data-Aggregator/blob/main/data/extractions/stats_CIV.csv)
 
 ---
 
@@ -44,6 +48,8 @@ As análises apenas contam com dados após 2020, pois antes disso a tabela de re
 
 <img height="250"  src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_CGR.png" alt="CodeWracker's GitHub stats"/>
 
+[Tabela com as notas finais (COM A REGRESSÂO LINEAR) da prova teórica de CGR](https://github.com/CodeWracker/EAOEAR-Data-Aggregator/blob/main/data/extractions/stats_CGR.csv)
+
 ---
 
 <img height="250"  src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/stats_TEL.png" alt="CodeWracker's GitHub stats"/>
@@ -53,6 +59,8 @@ As análises apenas contam com dados após 2020, pois antes disso a tabela de re
 ### Regressão para estima a nota do próximo ano de TEL
 
 <img height="250"  src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_TEL.png" alt="CodeWracker's GitHub stats"/>
+
+[Tabela com as notas finais (COM A REGRESSÂO LINEAR) da prova teórica de TEL](https://github.com/CodeWracker/EAOEAR-Data-Aggregator/blob/main/data/extractions/stats_TEL.csv)
 
 ---
 
@@ -64,6 +72,8 @@ As análises apenas contam com dados após 2020, pois antes disso a tabela de re
 
 <img height="250"  src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_QUI.png" alt="CodeWracker's GitHub stats"/>
 
+[Tabela com as notas finais (COM A REGRESSÂO LINEAR) da prova teórica de QUI](https://github.com/CodeWracker/EAOEAR-Data-Aggregator/blob/main/data/extractions/stats_QUI.csv)
+
 ---
 
 <img height="250"  src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/stats_ELT.png" alt="CodeWracker's GitHub stats"/>
@@ -74,6 +84,8 @@ As análises apenas contam com dados após 2020, pois antes disso a tabela de re
 
 <img height="250"  src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_ELT.png" alt="CodeWracker's GitHub stats"/>
 
+[Tabela com as notas finais (COM A REGRESSÂO LINEAR) da prova teórica de ELT](https://github.com/CodeWracker/EAOEAR-Data-Aggregator/blob/main/data/extractions/stats_ELT.csv)
+
 ---
 
 <img height="250"  src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/stats_ELN.png" alt="CodeWracker's GitHub stats"/>
@@ -83,3 +95,5 @@ As análises apenas contam com dados após 2020, pois antes disso a tabela de re
 ### Regressão para estima a nota do próximo ano de ELN
 
 <img height="250"  src="https://raw.githubusercontent.com/CodeWracker/EAOEAR-Data-Aggregator/main/data/charts/regression_ELN.png" alt="CodeWracker's GitHub stats"/>
+
+[Tabela com as notas finais (COM A REGRESSÂO LINEAR) da prova teórica de ELN](https://github.com/CodeWracker/EAOEAR-Data-Aggregator/blob/main/data/extractions/stats_ELN.csv)
